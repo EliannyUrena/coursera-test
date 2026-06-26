@@ -1,0 +1,22 @@
+.navbar {
+    background-color: darkolivegreen;
+    border: 1px solid beige;
+}
+
+.navbar-brand {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    color: black;
+}
+
+.menu-style {
+    font-style: italic;
+    background-color: beige;
+    padding: 5px;
+}
+.menu-section {
+    background-color: beige;
+    height: 1000px;
+    padding: 20px;
+}
